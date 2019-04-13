@@ -6,7 +6,7 @@
 
 ## Demo
 
-[Babel plugin ordering](plugin-ordering/README.md)
+[Babel plugin ordering](plugin-ordering/)
 
 ## Links
 
