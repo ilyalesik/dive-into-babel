@@ -4,5 +4,10 @@
 
 [Slides](http://ilyalesik.github.io/dive-into-babel/)
 
+## Demo
+
+[Babel plugin ordering](plugin-ordering/README.md)
+
 ## Links
+
 [Babel Handbook](https://github.com/jamiebuilds/babel-handbook)
