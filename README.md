@@ -6,6 +6,7 @@
 
 ## Demo
 
+* [Simple Babel plugin](simple-plugin/)
 * [Babel plugin ordering](plugin-ordering/)
 
 ## Links

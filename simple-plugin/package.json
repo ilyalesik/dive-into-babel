@@ -1,0 +1,16 @@
+{
+  "name": "simple-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel input.js --plugins=./plugin.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/helper-plugin-utils": "^7.0.0"
+  }
+}
