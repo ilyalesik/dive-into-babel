@@ -17,3 +17,4 @@
 * [Babel Handbook](https://github.com/jamiebuilds/babel-handbook)
 * [Babel Plugin "Ordering"](https://jamie.build/babel-plugin-ordering.html)
 * [Babel Test](https://github.com/satya164/babel-test)
+* [Fix support for Flow's DeclareClass type parameters](https://github.com/babel/babel/pull/9459)
