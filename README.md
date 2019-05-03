@@ -2,6 +2,8 @@
 
 ## Materials
 
+#### Tver.IO Radio Meetup 2019.04.18
+[Video](https://www.youtube.com/watch?v=0EJTApFVB7Y)
 [Slides](http://ilyalesik.github.io/dive-into-babel/)
 
 ## Demo
